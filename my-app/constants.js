@@ -31,7 +31,7 @@ export const CRYPTODEVS_DAO_ABI = [
         type: "address",
       },
       {
-        indexed: true,
+        indexed: true, 
         internalType: "address",
         name: "newOwner",
         type: "address",
